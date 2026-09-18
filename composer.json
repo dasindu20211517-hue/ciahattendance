@@ -1,0 +1,18 @@
+{
+    "name": "ciah/attendance",
+    "description": "CIAH Attendance System with ZKTeco K40",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "0mithun/php-zkteco": "^1.0",
+        "dompdf/dompdf": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "config": {
+        "policy": {
+            "advisories": {
+                "block": false
+            }
+        }
+    }
+}

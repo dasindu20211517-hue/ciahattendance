@@ -1,0 +1,14 @@
+employee_id,employee_name,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
+RM00001,"MS. L. S. SENAVIRATHNA",2026-08-01,,General,General,General,General,General,OFF,OFF
+RM00013,"MR. S. K. P. C. MUHANDIRAMGE",2026-08-01,,General,General,General,General,General,OFF,OFF
+LJC00026,"MR. E. A. T. KUMARA",2026-08-01,,General,General,General,General,General,OFF,OFF
+RMA00009,"MR. K. S. C. KAUSHALYA",2026-08-01,,General,General,General,General,General,OFF,OFF
+CIAH00021,"MS. R. H. WIJESINGHE",2026-08-01,,General,General,General,General,General,OFF,OFF
+CIAH00008,"MR. M. A. N. BUDDIKA LAL",2026-08-01,,General,General,General,General,General,OFF,OFF
+LJC00023,"MR. K. A. R. T. SAMPATH",2026-08-01,,General,General,General,General,General,OFF,OFF
+CIAH00009,"MS. M. K. I. HARSHANI",2026-08-01,,General,General,General,General,General,OFF,OFF
+LJC00029,"MR. T. I. S. KUMARA",2026-08-01,,General,General,General,General,General,OFF,OFF
+CIAH00014,"MR. M. N. I. FERNANDO",2026-08-01,,General,General,General,General,General,OFF,OFF
+SAMPLE1,"Sample Employee 1",2026-08-01,,Morning 7-4,Morning 7-4,Morning 7-4,Morning 7-4,Morning 7-4,OFF,OFF
+SAMPLE2,"Sample Employee 2",2026-08-01,,Afternoon 1-10,Afternoon 1-10,OFF,Afternoon 1-10,Afternoon 1-10,General,OFF
+SAMPLE3,"Sample Employee 3",2026-08-01,,General,General,General,General,General,General,General

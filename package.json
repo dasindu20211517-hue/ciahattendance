@@ -1,0 +1,17 @@
+{
+  "name": "ciah-attendance",
+  "version": "1.0.0",
+  "main": "openwa-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node openwa-config.js",
+    "whatsapp": "node openwa-config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.76.0"
+  }
+}

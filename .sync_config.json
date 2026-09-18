@@ -1,0 +1,14 @@
+{
+    "enabled": true,
+    "interval_minutes": 15,
+    "retry_attempts": 3,
+    "retry_delay_seconds": 10,
+    "max_records_per_sync": 10000,
+    "last_sync": "2026-08-22 06:12:22",
+    "last_sync_status": "success",
+    "last_sync_message": "Synced 140 users and 0 attendance records. Device time: 2026-08-22 09:40:58",
+    "auto_cleanup_enabled": false,
+    "cleanup_days": 90,
+    "wifi_check_enabled": true,
+    "notification_on_error": true
+}

@@ -1,0 +1,11 @@
+Employee ID,Badge ID,Name,M/F,Department,Company,Phone
+EMP001,00001,John Doe,M,IT,TechCorp,+1234567890
+EMP002,00002,Jane Smith,F,HR,TechCorp,+1234567891
+EMP003,00003,Michael Johnson,M,Finance,TechCorp,+1234567892
+EMP004,00004,Sarah Wilson,F,Marketing,TechCorp,+1234567893
+EMP005,00005,David Brown,M,IT,TechCorp,+1234567894
+EMP006,00006,Lisa Davis,F,HR,TechCorp,+1234567895
+EMP007,00007,Robert Miller,M,Operations,TechCorp,+1234567896
+EMP008,00008,Emily Anderson,F,Marketing,TechCorp,+1234567897
+EMP009,00009,James Wilson,M,Finance,TechCorp,+1234567898
+EMP010,00010,Maria Garcia,F,Operations,TechCorp,+1234567899
