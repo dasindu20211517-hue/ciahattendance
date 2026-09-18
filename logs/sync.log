@@ -1,7 +1,0 @@
-[2026-08-22 05:46:55] [info] Sync attempt 1/3
-[2026-08-22 05:47:06] [success] Synced 0 users and 0 attendance records. Device time: 2026-08-22 09:17:13 | {"users":0,"attendance":0,"latest_date":"2027-12-16"}
-[2026-08-22 06:03:00] [info] Sync attempt 1/3
-[2026-08-22 06:03:28] [info] Sync attempt 2/3
-[2026-08-22 06:03:34] [success] Synced 0 users and 0 attendance records. Device time: unknown | {"users":0,"attendance":0,"latest_date":"2027-12-16"}
-[2026-08-22 06:10:40] [info] Sync attempt 1/3
-[2026-08-22 06:12:22] [success] Synced 140 users and 0 attendance records. Device time: 2026-08-22 09:40:58 | {"users":140,"attendance":0,"latest_date":"2027-12-16"}

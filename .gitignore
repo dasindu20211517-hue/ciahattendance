@@ -1,0 +1,36 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.qodo/
+
+# Local environment and runtime
+.env
+.env.*
+.sync_config.json
+
+# Runtime/generated data
+logs/
+backups/
+*.log
+*.tmp
+*.bak
+
+# Local database files
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+
+# Dependency folders
+node_modules/
+vendor/
+
+# Project-specific junk
+VFT APP Sourse Files/
+
+# Optional: keep generated CSV templates tracked if needed
+# employee_template.csv
+# roster_template.csv
+# monthly_roster_template_2026_08.csv
